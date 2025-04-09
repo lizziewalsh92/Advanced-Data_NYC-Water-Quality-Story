@@ -1,0 +1,12 @@
+Contaminant,Canada MCL,EU MCL,EPA MCL,NYS MCL,California MCL,Notes
+Bromate,0.01 mg/L,0.01 mg/L,0.01 mg/L,0.01 mg/L,0.010 mg/L,Disinfection byproduct; regulated in all jurisdictions.
+Nickel,0.02 mg/L,0.02 mg/L,❌ Not regulated,❌ Not regulated,❌ Not regulated,Found in plumbing; not currently regulated in CA or NY.
+Manganese,0.12 mg/L (Aesthetic),0.05 mg/L,❌ Not regulated,Advisory only (~0.3 mg/L),SMCL = 0.05 mg/L,CA regulates as a secondary standard; no health-based MCL.
+Cyanide,0.2 mg/L,0.05 mg/L,0.2 mg/L,0.2 mg/L,0.15 mg/L,CA has slightly more protective MCL than EPA/NYS.
+"1,2-Dichloroethane",0.005 mg/L,0.003 mg/L,0.005 mg/L,0.005 mg/L,0.0005 mg/L,CA MCL is 10x more protective than federal/NYS levels.
+Benzo(a)pyrene,0.00004 mg/L,0.00001 mg/L,0.0002 mg/L,0.0002 mg/L,0.0002 mg/L,Regulated in CA at same level as EPA/NYS.
+Tetrachloroethene (PCE),0.03 mg/L,0.01 mg/L,0.005 mg/L,0.005 mg/L,0.005 mg/L,Solvent; regulated consistently across jurisdictions.
+Trichloroethene (TCE),0.005 mg/L,0.01 mg/L,0.005 mg/L,0.005 mg/L,0.005 mg/L,Industrial solvent; regulated consistently.
+Pesticides (individual),Varies,0.0001 mg/L,Varies,Varies,Varies,CA regulates many individually with lower limits.
+Total Pesticides,❌ Not specified,0.0005 mg/L,❌ Not regulated,❌ Not regulated,❌ Not regulated,No total pesticide MCL; focus on individual pesticides.
+Polycyclic Aromatic Hydrocarbons (PAHs),❌ Not specified,0.0001 mg/L (sum of 4 PAHs),❌ Not regulated,❌ Not regulated,❌ Not regulated,Only Benzo(a)pyrene is regulated; others are not.
